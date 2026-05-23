@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "servidor": "SRV-API-02",
+        "watts": 428.8,
+        "motivo": "Pico detectado na simulação histórica: 428.8W",
+        "data": "15/05/2026 19:45",
+        "resolvido": false
+    },
+    {
+        "id": 2,
+        "servidor": "SRV-DB-01",
+        "watts": 415.9,
+        "motivo": "Pico detectado na simulação histórica: 415.9W",
+        "data": "15/05/2026 19:45",
+        "resolvido": false
+    },
+    {
+        "id": 3,
+        "servidor": "SRV-CI-CD",
+        "watts": 573.8,
+        "motivo": "Pico detectado na simulação histórica: 573.8W",
+        "data": "15/05/2026 19:45",
+        "resolvido": true
+    },
+    {
+        "id": 4,
+        "servidor": "SRV-CI-CD",
+        "watts": 465.1,
+        "motivo": "Pico detectado na simulação histórica: 465.1W",
+        "data": "15/05/2026 19:45",
+        "resolvido": false
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nome": "SRV-WEB-01",
+        "tipo": "Web / Frontend",
+        "local": "Rack A",
+        "consumo_base_w": 220.0,
+        "ativo": true,
+        "data_cadastro": "15/05/2026 19:45"
+    },
+    {
+        "id": 2,
+        "nome": "SRV-API-02",
+        "tipo": "Backend / API",
+        "local": "Rack A",
+        "consumo_base_w": 310.0,
+        "ativo": true,
+        "data_cadastro": "15/05/2026 19:45"
+    },
+    {
+        "id": 3,
+        "nome": "SRV-DB-01",
+        "tipo": "Banco de Dados",
+        "local": "Rack B",
+        "consumo_base_w": 380.0,
+        "ativo": true,
+        "data_cadastro": "15/05/2026 19:45"
+    },
+    {
+        "id": 4,
+        "nome": "SRV-CI-CD",
+        "tipo": "CI/CD / Build",
+        "local": "Rack B",
+        "consumo_base_w": 450.0,
+        "ativo": true,
+        "data_cadastro": "15/05/2026 19:45"
+    },
+    {
+        "id": 5,
+        "nome": "SRV-HOMOLOG",
+        "tipo": "Homologação",
+        "local": "Rack C",
+        "consumo_base_w": 190.0,
+        "ativo": false,
+        "data_cadastro": "15/05/2026 19:45"
+    }
+]
